@@ -1,0 +1,29 @@
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    padding: 14px;
+    gap: 10px;
+    border-radius: 27px;
+    border: none;
+    text-align: center;
+    font-family: Noto Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    cursor: pointer;
+  }
+  
+  .button-primary {
+    background: linear-gradient(90deg, #ff6489 0%, #f9b24e 100%);
+    color: #fff;
+  }
+  
+  .button-secondary {
+    background: none;
+    color: #fe7e02;
+    border: 1px solid #fe7e02;
+  }
+  

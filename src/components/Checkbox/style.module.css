@@ -1,0 +1,37 @@
+.checkbox-text {
+    margin: 64px 0 24px 0;
+  }
+  
+  .checkbox-text p {
+    color: #000;
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  
+  .checkbox-text strong {
+    color: #4088cb;
+  }
+  
+  .checkbox-check {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    margin-bottom: 28px;
+  }
+  
+  .checkbox-check p {
+    color: #000;
+    font-family: Noto Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  
+  .checkbox-check input {
+    margin-right: 10px;
+  }
+  

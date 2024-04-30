@@ -1,0 +1,13 @@
+.post-container {
+    padding: 0 30px;
+    margin-top: 32px;
+  }
+  
+  .post-card {
+    display: flex;
+    flex-direction: column;
+    margin-top: 26px;
+    margin-bottom: 90px;
+    gap: 10px;
+  }
+  
