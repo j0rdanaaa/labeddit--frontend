@@ -2,7 +2,7 @@
 
 Projeto fullstack para a criação de um aplicativo mobile first inspirado no Reddit.
 
-🔴 Acesse [aqui]() o link do deploy.
+🔴 Acesse [easley-jordana-labeddit-frontend.surge.sh]() o link do deploy.
 
 ## Layout
 
